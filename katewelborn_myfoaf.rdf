@@ -1,0 +1,37 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>Lauren  Welborn</foaf:name>
+<foaf:title>Ms</foaf:title>
+<foaf:givenname>Lauren </foaf:givenname>
+<foaf:family_name>Welborn</foaf:family_name>
+<foaf:nick>Kate</foaf:nick>
+<foaf:mbox_sha1sum>e0c7385a41cfcbe6f2f9a8c2eff23160b6b8ad25</foaf:mbox_sha1sum>
+<foaf:homepage rdf:resource="https://www.facebook.com/lkwelborn"/>
+<foaf:depiction rdf:resource="https://scontent-ort2-1.xx.fbcdn.net/v/t39.30808-6/231015450_10228202378223919_9015072961169801885_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=QHUt_kLxj4MAX8vPNPZ&_nc_ht=scontent-ort2-1.xx&oh=f55b6d075a6e266888a4b9dcbeba8c41&oe=612DE79D"/>
+<foaf:phone rdf:resource="tel:8164569759"/>
+<foaf:workplaceHomepage rdf:resource="https://publicdefender.mo.gov/"/>
+<foaf:workInfoHomepage rdf:resource="https://publicdefender.mo.gov/about-mspd/mission-and-principles/"/>
+<foaf:schoolHomepage rdf:resource="https://law.missouri.edu/"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>James Melton</foaf:name>
+<foaf:mbox_sha1sum>130f6b33178fc62a176dd37b17188a87fc796064</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Abigail Davis</foaf:name>
+<foaf:mbox_sha1sum>8d120017f42893893d69895d6c6c14f0e770568c</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Carol Welborn</foaf:name>
+<foaf:mbox_sha1sum>279b000322bd61fe6bfca9aa14f2fcad79e22275</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
+</rdf:RDF>
